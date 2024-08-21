@@ -46,6 +46,13 @@
 ![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_20_46](https://github.com/user-attachments/assets/f8594b5d-09f1-4d11-bc08-bd4e4a693488)
 ![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_20_57](https://github.com/user-attachments/assets/406b6aee-5433-47c5-9c1c-7082406947f8)
 
+## İletişim Sayfası
+<br/> <br/>
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_21_57](https://github.com/user-attachments/assets/1723c674-d90f-43cb-bc2e-14f586190f28)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_22_02](https://github.com/user-attachments/assets/84427ed6-370b-468c-8bad-0abaaad5458b)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_23_32](https://github.com/user-attachments/assets/b0b70817-3b7d-45d1-8d0a-37257da10dcc)
+
+
 
 
 
