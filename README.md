@@ -53,11 +53,6 @@
 ![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_23_32](https://github.com/user-attachments/assets/b0b70817-3b7d-45d1-8d0a-37257da10dcc)
 
 
-
-
-
-
-
 ## Dashboard Kısımı
 Öğretmenlerimizin bulunduğu, bazı istatistiklerin ,grafiklerin ,sosyal medya hesaplarımızın bulunduğu dashboard kısımı
 <br/> <br/>
@@ -70,6 +65,11 @@ Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
 ![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 10_47_08](https://github.com/user-attachments/assets/63114df1-d456-4052-ad5a-c52baa8f749e)
 ![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 10_47_21](https://github.com/user-attachments/assets/f482e02f-7515-422c-ba0e-26f79964384d)
 ![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 10_47_40](https://github.com/user-attachments/assets/6ac6a699-f410-49e9-8f45-65b7c2cfb4ef)
+
+## Öğrenci Gurupları
+Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
+
+
 
 
 
