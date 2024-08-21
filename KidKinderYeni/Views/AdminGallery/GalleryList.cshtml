@@ -1,0 +1,37 @@
+﻿@model List<KidKinderYeni.Entities.Gallery>
+@{
+    ViewBag.Title = "GalleryList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+
+<!-- Gallery Start -->
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="text-center pb-2">
+            <p class="section-title px-5">
+                <h3><span class="px-2">Galeri</span></h3>
+            </p>
+            <h1 class="mb-4">KidKinder Galeri Sayfamız </h1>
+        </div>
+        <div class="row portfolio-container">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="row-table" src="@item.ImageUrl" alt="" />
+                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            <a href="~/Templates/kidkinder-1.0.0/img/portfolio-1.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            <a href="/AdminGallery/GalleryListIndex/" class="btn btn-primary">Yeni Resim Girişi</a>
+        </div>
+    </div>
+</div>
+<!-- Gallery End -->

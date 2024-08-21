@@ -1,0 +1,385 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<!-- morris chart -->
+<link rel="stylesheet" type="text/css" href="~/Templates/assets/css/morris.js/css/morris.css">
+
+<link rel="stylesheet" type="text/css" href="~/Templates/material_able-main/assets/css/font-awesome-n.min.css">
+
+<div class="pcoded-inner-content">
+    <!-- Main-body start -->
+    <div class="main-body">
+        <div class="page-wrapper">
+            <!-- Page-body start -->
+            <div class="page-body">
+                <div class="row">
+                    <!-- Material statustic card start -->
+                    <div class="col-xl-4 col-md-12">
+                        <div class="card mat-stat-card">
+                            <div class="card-block">
+                                <div class="row align-items-center b-b-default">
+                                    <div class="col-sm-6 b-r-default p-b-20 p-t-20">
+                                        <div class="row align-items-center text-center">
+                                            <div class="col-4 p-r-0">
+                                                <i class="far fa-user text-c-purple f-24"></i>
+                                            </div>
+                                            <div class="col-8 p-l-0">
+                                                <h5>@ViewBag.ResimOGretmeniCount</h5>
+                                                <p class="text-muted m-b-0">Resim Öğretmeni</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 p-b-20 p-t-20">
+                                        <div class="row align-items-center text-center">
+                                            <div class="col-4 p-r-0">
+                                                <i class="fas fa-volume-down text-c-green f-24"></i>
+                                            </div>
+                                            <div class="col-8 p-l-0">
+                                                <h5>@ViewBag.AvgPrice</h5>
+                                                <p class="text-muted m-b-0">Ortalama Fiyat</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row align-items-center">
+                                    <div class="col-sm-6 p-b-20 p-t-20 b-r-default">
+                                        <div class="row align-items-center text-center">
+                                            <div class="col-4 p-r-0">
+                                                <i class="far fa-file-alt text-c-red f-24"></i>
+                                            </div>
+                                            <div class="col-8 p-l-0">
+                                                <h5>@ViewBag.ClassRoomCount</h5>
+                                                <p class="text-muted m-b-0">Sınıf Sayısı</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 p-b-20 p-t-20">
+                                        <div class="row align-items-center text-center">
+                                            <div class="col-4 p-r-0">
+                                                <i class="far fa-envelope-open text-c-blue f-24"></i>
+                                            </div>
+                                            <div class="col-8 p-l-0">
+                                                <h5>@ViewBag.MessagesCount</h5>
+                                                <p class="text-muted m-b-0">Gelen Mesajlar</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-12">
+                        <div class="card mat-stat-card">
+                            <div class="card-block">
+                                <div class="row align-items-center b-b-default">
+                                    <div class="col-sm-6 b-r-default p-b-20 p-t-20">
+                                        <div class="row align-items-center text-center">
+                                            <div class="col-4 p-r-0">
+                                                <i class="fas fa-share-alt text-c-purple f-24"></i>
+                                            </div>
+                                            <div class="col-8 p-l-0">
+                                                <h5>@ViewBag.GalleyCount</h5>
+                                                <p class="text-muted m-b-0">Fotoğraf  Sayısı</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 p-b-20 p-t-20">
+                                        <div class="row align-items-center text-center">
+                                            <div class="col-4 p-r-0">
+                                                <i class="fas fa-sitemap text-c-green f-24"></i>
+                                            </div>
+                                            <div class="col-8 p-l-0">
+                                                <h5>@ViewBag.ParentsCount</h5>
+                                                <p class="text-muted m-b-0">Veli Sayısı</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row align-items-center">
+                                    <div class="col-sm-6 p-b-20 p-t-20 b-r-default">
+                                        <div class="row align-items-center text-center">
+                                            <div class="col-4 p-r-0">
+                                                <i class="fas fa-signal text-c-red f-24"></i>
+                                            </div>
+                                            <div class="col-8 p-l-0">
+                                                <h5>@ViewBag.TestimonialCount</h5>
+                                                <p class="text-muted m-b-0">Hizmet Sayısı</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 p-b-20 p-t-20">
+                                        <div class="row align-items-center text-center">
+                                            <div class="col-4 p-r-0">
+                                                <i class="fas fa-wifi text-c-blue f-24"></i>
+                                            </div>
+                                            <div class="col-8 p-l-0">
+                                                <h5>@ViewBag.MatematikCount</h5>
+                                                <p class="text-muted m-b-0">Matematik Öğretmeni</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-12">
+                        <div class="card mat-clr-stat-card text-white green ">
+                            <div class="card-block">
+                                <div class="row">
+                                    <div class="col-3 text-center bg-c-green">
+                                        <i class="fas fa-star mat-icon f-24"></i>
+                                    </div>
+                                    <div class="col-9 cst-cont">
+                                        <h5> @ViewBag.StudentCount</h5>
+                                        <p class="m-b-0">Öğrenci Sayısı</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card mat-clr-stat-card text-white blue">
+                            <div class="card-block">
+                                <div class="row">
+                                    <div class="col-3 text-center bg-c-blue">
+                                        <i class="fas fa-trophy mat-icon f-24"></i>
+                                    </div>
+                                    <div class="col-9 cst-cont">
+                                        <h5>@ViewBag.TeacherCount</h5>
+                                        <p class="m-b-0">Toplam Öğretmen Sayısı</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Material statustic card end -->
+                    <!-- order-visitor start -->
+                    <!-- order-visitor end -->
+                    <!--  sale analytics start -->
+                    <div class="col-xl-6 col-md-12">
+                        <div class="card table-card">
+                            <div class="card-header">
+                                <h5>Öğretmenlerimiz</h5>
+                                <div class="card-header-right">
+                                    <ul class="list-unstyled card-option">
+                                        <li><i class="fa fa fa-wrench open-card-option"></i></li>
+                                        <li><i class="fa fa-window-maximize full-card"></i></li>
+                                        <li><i class="fa fa-minus minimize-card"></i></li>
+                                        <li><i class="fa fa-refresh reload-card"></i></li>
+                                        <li><i class="fa fa-trash close-card"></i></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="card-block">
+                                <div class="table-responsive">
+                                    <table class="table table-hover m-b-0 without-header">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block align-middle">
+                                                        <img src="~/Templates/kidkinder-1.0.0/img/team-1.jpg" alt="user image" class="img-radius img-40 align-top m-r-15">
+                                                        <div class="d-inline-block">
+                                                            <h6>Julia Smith</h6>
+                                                            <p class="text-muted m-b-0">Matematik</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td class="text-right">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block align-middle">
+                                                        <img src="~/Templates/kidkinder-1.0.0/img/team-2.jpg" alt="user image" class="img-radius img-40 align-top m-r-15">
+                                                        <div class="d-inline-block">
+                                                            <h6>Jhon Doe</h6>
+                                                            <p class="text-muted m-b-0">Resim Öğretmeni</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td class="text-right">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block align-middle">
+                                                        <img src="~/Templates/kidkinder-1.0.0/img/team-3.jpg" alt="user image" class="img-radius img-40 align-top m-r-15">
+                                                        <div class="d-inline-block">
+                                                            <h6>Mollie Ross</h6>
+                                                            <p class="text-muted m-b-0">Robotik Kodlama</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td class="text-right">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block align-middle">
+                                                        <img src="~/Templates/kidkinder-1.0.0/img/team-4.jpg" alt="user image" class="img-radius img-40 align-top m-r-15">
+                                                        <div class="d-inline-block">
+                                                            <h6>Donald John</h6>
+                                                            <p class="text-muted m-b-0">İngilizce Öğretmeni</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td class="text-right">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="d-inline-block align-middle">
+                                                        <img src="~/Templates/material_able-main/assets/images/avatar-2.jpg" alt="user image" class="img-radius img-40 align-top m-r-15">
+                                                        <div class="d-inline-block">
+                                                            <h6>Elena Ledda</h6>
+                                                            <p class="text-muted m-b-0">İspanyolca</p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td class="text-right">
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-6 col-md-12">
+                        <div class="row">
+                            <!-- sale card start -->
+
+                            <div class="col-md-6">
+                                <div class="card text-center order-visitor-card">
+                                    <div class="card-block">
+                                        <h4 class="m-b-0">Facebook</h4>
+                                        <h6 class="m-t-15 m-b-15"><i class="ti-facebook m-r-15 text-c-blue"></i></h6>
+                                        <p class="m-b-0">facebook.com/</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card text-center order-visitor-card">
+                                    <div class="card-block">
+                                        <h6 class="m-b-0">İnstagram</h6>
+                                        <h4 class="m-t-15 m-b-15"><i class="ti-instagram m-r-15 text-c-green"></i></h4>
+                                        <p class="m-b-0">instagram.com/</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card bg-c-red total-card">
+                                    <div class="card-block">
+                                        <div class="text-left">
+                                            <h4>Twitter</h4>
+                                            <p class="m-0">twitter.com/</p>
+                                        </div>
+                                        <span class="label bg-c-red value-badges"><i class="ti-twitter"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card bg-c-green total-card">
+                                    <div class="card-block">
+                                        <div class="text-left">
+                                            <h4>Linkedin</h4>
+                                            <p class="m-0">linkedin.com/</p>
+                                        </div>
+                                        <span class="label bg-c-green value-badges"><i class="ti-linkedin"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- sale card end -->
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!-- Page-body end -->
+        </div>
+        <div id="styleSelector"> </div>
+    </div>
+</div>
+
+
+        <div class="card-header">
+            <h1>Kontenjan Sayımız</h1>
+            <div class="card-header-right">
+                <ul class="list-unstyled card-option"></ul>
+
+                    <div class="col-xl-12">
+                        <div class="card proj-progress-card">
+                            <div class="card-block">
+                                <div class="row">
+                                    <div class="col-xl-4 ">
+                                        <h6>Çizim Sınıfı</h6>
+                                        <h5 class="m-b-30 f-w-700">30/<span class="text-c-green m-l-10">Boş Kontenjan+5</span></h5>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-c-green" style="width:95%"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 ">
+                                        <h6>Temel Bilimler Sınıfı</h6>
+                                        <h5 class="m-b-30 f-w-700">35/<span class="text-c-blue m-l-10">Boş Kontenjan+15</span></h5>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-c-blue" style="width:50%"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 ">
+                                        <h6>Yüzme Sınıfı</h6>
+                                        <h5 class="m-b-30 f-w-700">40/<span class="text-c-red m-l-10">Boş Kontenjan+3</span></h5>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-c-red" style="width:92%"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 ">
+                                        <h6>Kitap Okuma Sınıfı</h6>
+                                        <h5 class="m-b-30 f-w-700">50/<span class="text-c-purple m-l-10">Boş Kontenjan+20</span></h5>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-c-purple" style="width:60%"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 ">
+                                        <h6>Dil Sınıfı</h6>
+                                        <h5 class="m-b-30 f-w-700">20/<span class="text-c-yellow m-l-10">Boş Kontenjan+12</span></h5>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-c-yellow" style="width:40%"></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-4 ">
+                                        <h6>Çizgi Film Sınıfı</h6>
+                                        <h5 class="m-b-30 f-w-700">25/<span class="text-c-lite-green m-l-10">Doldu</span></h5>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-c-lite-green" style="width:100%"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                    
+
+
+
+
+
+
+
+
+                    @*<div class="col-md-12 col-lg-6">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5>Bar Chart</h5>
+                                    <span>lorem ipsum dolor sit amet, consectetur adipisicing elit</span>
+                                </div>
+                                <div class="card-block">
+                                    <div id="morris-bar-chart"></div>
+                                </div>
+                            </div>
+                        </div>*@
+

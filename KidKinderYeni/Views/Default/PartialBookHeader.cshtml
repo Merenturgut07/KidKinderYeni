@@ -1,0 +1,17 @@
+﻿@model List<KidKinderYeni.Entities.BookHeader>
+    @foreach(var item in Model)
+            {
+
+            
+<div class="col-lg-7 mb-5 mb-lg-0">
+    <p class="section-title pr-5">
+        <span class="pr-2">@item.Header</span>
+    </p>
+    <h1 class="mb-4">@item.Title</h1>
+    <p>
+        @item.Description
+    </p>
+    @Html.Action("PartialBookASeatList","Default")
+    <a href="" class="btn btn-primary mt-4 py-2 px-4">Book Now</a>
+</div>
+    }
