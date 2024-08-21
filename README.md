@@ -7,6 +7,27 @@
  * Temel crud işlemleri
  * Mvc5 ,EntityFramework, MSSQL,Google Chart,HTML,CSS,Bootstrap,JavaScript,Ifrema,ErrorPage,Validasyon
 
+## Ana Sayfa
+<br/> <br/>
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_00_09](https://github.com/user-attachments/assets/56cc4d1b-9a4a-4d62-a219-f27cbbbb98fc)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_10_16](https://github.com/user-attachments/assets/436df656-0107-4165-bcb9-b5b0fdedeead)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_14_36](https://github.com/user-attachments/assets/d43ff3f5-3aad-4e47-9f9e-1c742930eaa6)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_14_41](https://github.com/user-attachments/assets/65e3d4ff-ec6c-4f48-b271-1172294f4993)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_14_47](https://github.com/user-attachments/assets/2f42d0fe-6d82-40a6-a46d-34b24dd96c60)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_14_55](https://github.com/user-attachments/assets/7927acb1-adf9-4917-82be-d17036d18ea1)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_15_03](https://github.com/user-attachments/assets/fe71e814-5eb1-4d5a-83c4-8417d01e7705)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_15_09](https://github.com/user-attachments/assets/0ac32543-7b73-43bf-96df-1ef7e92ac663)
+
+
+
+## Sınıflarımız Kısımı
+<br/> <br/>
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 10_48_21](https://github.com/user-attachments/assets/8e3402e0-6c96-48c7-8bfd-c7f9677f0bc6)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 10_48_26](https://github.com/user-attachments/assets/69c28a2a-542a-445c-94f1-0eac5704c0d2)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 10_48_32](https://github.com/user-attachments/assets/14734e0e-aee4-496d-a99b-77524643c069)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 10_48_51](https://github.com/user-attachments/assets/ceb0ad27-fe62-4fea-b636-d22e2a0dc846)
+
+
 
 ## Dashboard Kısımı
 Öğretmenlerimizin bulunduğu, bazı istatistiklerin ,grafiklerin ,sosyal medya hesaplarımızın bulunduğu dashboard kısımı
