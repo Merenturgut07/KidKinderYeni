@@ -68,8 +68,31 @@ Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
 
 ## Öğrenci Gurupları
 Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
+<br/> <br/>
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_30_02](https://github.com/user-attachments/assets/26b8e8fa-a1f7-41cc-abd1-4af6a6fca463)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_30_10](https://github.com/user-attachments/assets/f4a45ffc-8345-4a34-8610-619469136fff)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_30_21](https://github.com/user-attachments/assets/81b114a4-4042-4749-9e5b-55f9f892a787)
 
+## Veli Gurupları
+Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
+<br/> <br/>
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_33_17](https://github.com/user-attachments/assets/b8dcf7ef-5011-44a9-98ce-928bc46c0644)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_32_32](https://github.com/user-attachments/assets/363fd4cb-a249-48d2-9b3a-a47de3948be8)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_32_26](https://github.com/user-attachments/assets/8f35fa9e-7e82-4ec9-91b3-d4a3a6469d7d)
 
+## Hizmet Gurupları
+Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
+<br/> <br/>
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_35_48](https://github.com/user-attachments/assets/19ccc871-e668-4369-a645-9e10aefa9479)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_35_56](https://github.com/user-attachments/assets/008762f3-3fb8-427f-a979-f36335fd9e7a)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_36_07](https://github.com/user-attachments/assets/1508f064-a4d7-42a5-b376-5e3b88d27029)
+
+## Gelen Mesaj Kısımı
+Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
+<br/> <br/>
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_38_31](https://github.com/user-attachments/assets/da6d8ee1-5270-4592-91ce-7fd2bb34f04f)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_38_37](https://github.com/user-attachments/assets/30d737bf-b2e4-45e8-9304-9934df9dab76)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 13_38_46](https://github.com/user-attachments/assets/7dd27b41-4d9a-431c-ac37-d20991e767f4)
 
 
 
