@@ -35,5 +35,12 @@ namespace KidKinderYeni.Controllers
             }
             return View();
         }
+
+        public ActionResult LogOut()
+        {
+            FormsAuthentication.SignOut();
+			return RedirectToAction("AdminLogin", "Login");
+
+		}
     }
 }

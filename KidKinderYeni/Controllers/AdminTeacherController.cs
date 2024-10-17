@@ -9,7 +9,7 @@ using KidKinderYeni.Entities;
 
 namespace KidKinderYeni.Controllers
 {
-    //[Authorize]
+    [Authorize]
     public class AdminTeacherController : Controller
     {
         // GET: AdminTeacher

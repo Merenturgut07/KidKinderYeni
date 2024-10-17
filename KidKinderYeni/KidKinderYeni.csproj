@@ -130,6 +130,7 @@
     <Compile Include="Context\KidKinderContext.cs" />
     <Compile Include="Controllers\AboutController.cs" />
     <Compile Include="Controllers\AdminClassController.cs" />
+    <Compile Include="Controllers\AdminContactController.cs" />
     <Compile Include="Controllers\AdminGalleryController.cs" />
     <Compile Include="Controllers\AdminGelenMesajController.cs" />
     <Compile Include="Controllers\AdminLayoutController.cs" />
@@ -141,6 +142,7 @@
     <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\DashboardController.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
+    <Compile Include="Controllers\DefaultMailSubscribeController.cs" />
     <Compile Include="Controllers\ErrorPageController.cs" />
     <Compile Include="Controllers\GalleryController.cs" />
     <Compile Include="Controllers\KidKinderLayoutController.cs" />
@@ -236,6 +238,10 @@
     <Compile Include="Migrations\202405071026313_mig16.cs" />
     <Compile Include="Migrations\202405071026313_mig16.Designer.cs">
       <DependentUpon>202405071026313_mig16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202410161543502_mignameveemaildüzenleme.cs" />
+    <Compile Include="Migrations\202410161543502_mignameveemaildüzenleme.Designer.cs">
+      <DependentUpon>202410161543502_mignameveemaildüzenleme.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\SendMessageViewModel.cs" />
@@ -1183,9 +1189,18 @@
     <Content Include="Views\AdminGallery\GalleryList.cshtml" />
     <Content Include="Views\AdminGallery\GalleryListIndex.cshtml" />
     <Content Include="Views\Dashboard\Index.cshtml" />
+    <Content Include="Views\Dashboard\DashboardSol.cshtml" />
+    <Content Include="Views\Dashboard\DashboardOrta.cshtml" />
+    <Content Include="Views\Dashboard\DashboardSağ.cshtml" />
+    <Content Include="Views\Dashboard\DashboardOgretmenlerimiz.cshtml" />
+    <Content Include="Views\Dashboard\DashboardSosyalMedya.cshtml" />
+    <Content Include="Views\Dashboard\DashboardKontenjan.cshtml" />
+    <Content Include="Views\Contact\ContactPartial.cshtml" />
+    <Content Include="Views\AdminContact\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\DefaultMailSubscribe\" />
     <Folder Include="İmages\" />
   </ItemGroup>
   <ItemGroup>
@@ -1266,6 +1281,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202405071026313_mig16.resx">
       <DependentUpon>202405071026313_mig16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202410161543502_mignameveemaildüzenleme.resx">
+      <DependentUpon>202410161543502_mignameveemaildüzenleme.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

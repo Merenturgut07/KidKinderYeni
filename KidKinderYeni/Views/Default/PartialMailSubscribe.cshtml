@@ -1,20 +1,16 @@
 ﻿@model List<KidKinderYeni.Entities.MailSubscribe>
-    @foreach(var item in Model)
-    {
+
 <div class="col-lg-3 col-md-6 mb-5">
-    <h3 class="text-primary mb-4">Newsletter</h3>
-    <form action="">
+    <h3 class="text-primary mb-4">Kayıt Ol</h3>
+    @foreach(var item in Model)
+            {
+
+            
         <div class="form-group">
-            <input type="@item.NameSurname"
-                   class="form-control border-0 py-4"
-                   placeholder="İsim Soyisim"
-                   required="required" />
+            <input type="text" name="Name_Surname", new  {@ class="form-control" />
         </div>
         <div class="form-group">
-            <input type="@item.Email"
-                   class="form-control border-0 py-4"
-                   placeholder="Mail Adresiniz"
-                   required="required" />
+            <input type="text" name="E_mail" , new {@ class="form-control" />
         </div>
         <div>
             <button class="btn btn-primary btn-block border-0 py-3"
@@ -22,6 +18,5 @@
                 Kayıt Ol
             </button>
         </div>
-    </form>
-</div>
     }
+</div>
