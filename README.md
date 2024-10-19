@@ -9,21 +9,12 @@
 
 ## Ana Sayfa
 <br/> <br/>
-![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_00_09](https://github.com/user-attachments/assets/56cc4d1b-9a4a-4d62-a219-f27cbbbb98fc)
-![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_10_16](https://github.com/user-attachments/assets/436df656-0107-4165-bcb9-b5b0fdedeead)
-![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_14_36](https://github.com/user-attachments/assets/d43ff3f5-3aad-4e47-9f9e-1c742930eaa6)
-![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_14_41](https://github.com/user-attachments/assets/65e3d4ff-ec6c-4f48-b271-1172294f4993)
-![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_14_47](https://github.com/user-attachments/assets/2f42d0fe-6d82-40a6-a46d-34b24dd96c60)
-![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_14_55](https://github.com/user-attachments/assets/7927acb1-adf9-4917-82be-d17036d18ea1)
-![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_15_03](https://github.com/user-attachments/assets/fe71e814-5eb1-4d5a-83c4-8417d01e7705)
-![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_15_09](https://github.com/user-attachments/assets/0ac32543-7b73-43bf-96df-1ef7e92ac663)
+
 
 
 ## Hakkımızda Sayfası
 <br/> <br/>
-![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_17_31](https://github.com/user-attachments/assets/5a0bfb5e-155d-4719-a77a-6004d798c8f9)
-![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_17_35](https://github.com/user-attachments/assets/895c1280-ea17-4816-af5a-474e2765ab8b)
-![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 11_17_44](https://github.com/user-attachments/assets/8ac73340-234e-48eb-99f2-0a1149b47aad)
+
 
 
 
