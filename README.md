@@ -131,8 +131,10 @@ Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
 
 
 ## Gelen Mesaj Kısımı
-Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
+İletişim Ksımında Yazılan Mesajların Tutulduğu Bölüm 
 <br/> <br/>
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_56_06](https://github.com/user-attachments/assets/1633f03a-683a-44f7-88a0-e9528bb80ff0)
+
 
 
 
