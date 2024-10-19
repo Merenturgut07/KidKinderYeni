@@ -122,6 +122,14 @@ Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
 
 
 
+## Bildirim  Kısımı
+Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
+<br/> <br/>
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_49_40](https://github.com/user-attachments/assets/d27959bc-584c-426e-b743-9b5f3a13843a)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_49_46](https://github.com/user-attachments/assets/f5ed8840-bc60-46ff-b08a-a72c9945b431)
+![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_49_52](https://github.com/user-attachments/assets/48b5ccdc-b4e2-4438-9a61-5cecc02f844e)
+
+
 ## Gelen Mesaj Kısımı
 Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
 <br/> <br/>
