@@ -64,7 +64,8 @@
 <br/> <br/>
 ![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_30_55](https://github.com/user-attachments/assets/642430da-5238-4999-8e57-06bf2fc294c0)
 <br/> <br/>
-Kullanıcıların Bilgilerini Girerek Rezervasyon Oluşturabilmektedirler
+# Kullanıcıların İletişim Bilgilerini Girekrek Sisteme Kayıt Olabilmektedirler
+<br/> <br/>
 ![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_31_02](https://github.com/user-attachments/assets/8a4cc1e2-0c1c-4d75-ae61-e4377e235c13)
 ![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_31_13](https://github.com/user-attachments/assets/48c9d935-bd7a-4e02-96bf-d7bc09208154)
 
