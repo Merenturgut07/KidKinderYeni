@@ -46,14 +46,28 @@
 
 ## Öğretmenlerimiz Sayfası
 <br/> <br/>
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_28_39](https://github.com/user-attachments/assets/00aa9b49-936d-4fbc-9cdc-f11e0cda4c46)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_28_54](https://github.com/user-attachments/assets/3bd06047-5b6e-4a7f-a73c-5c124d015002)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_29_02](https://github.com/user-attachments/assets/c6fe104d-7b81-450d-b338-947a2737fa17)
+
 
 
 ## Galeri Sayfası
 <br/> <br/>
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_29_48](https://github.com/user-attachments/assets/cabf4398-c964-4c1d-97a7-26cdf5012979)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_30_02](https://github.com/user-attachments/assets/f672f1c8-fbbf-4bf5-a9a1-f917e80bbcb0)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_30_13](https://github.com/user-attachments/assets/cba04922-41f2-4ac2-9048-ea72ab2c583c)
+
 
 
 ## İletişim Sayfası
 <br/> <br/>
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_30_55](https://github.com/user-attachments/assets/642430da-5238-4999-8e57-06bf2fc294c0)
+<br/> <br/>
+Kullanıcıların Bilgilerini Girerek Rezervasyon Oluşturabilmektedirler
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_31_02](https://github.com/user-attachments/assets/8a4cc1e2-0c1c-4d75-ae61-e4377e235c13)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_31_13](https://github.com/user-attachments/assets/48c9d935-bd7a-4e02-96bf-d7bc09208154)
+
 
 
 
