@@ -135,6 +135,9 @@ Temel Ekleme Silme Ve Güncelleme işlemleri yapılmaktadır.
 <br/> <br/>
 ![Kid Kinder Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_56_06](https://github.com/user-attachments/assets/1633f03a-683a-44f7-88a0-e9528bb80ff0)
 
+## Kullanılan Tablolar
+Projede Kullanılmış Btün Tablolar
+![DESKTOP-FCK5R8M_SQLEXPRESS KidKinderDb - Diagram_2_ - Microsoft SQL Server Management Studio 19 10 2024 13_01_58](https://github.com/user-attachments/assets/773d61cb-032f-47f0-8c39-5bc1012c6d45)
 
 
 
