@@ -27,13 +27,21 @@
 
 ## Hakkımızda Sayfası
 <br/> <br/>
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_25_21](https://github.com/user-attachments/assets/334db7ba-e3c6-4a95-8683-cbb32a379b40)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_25_30](https://github.com/user-attachments/assets/aadf78c0-a366-45f4-be4d-d82a4646bae0)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_25_37](https://github.com/user-attachments/assets/15040625-b70a-4727-8ec1-9188d67a85fc)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_25_46](https://github.com/user-attachments/assets/b07fe949-7596-4674-af1a-eb622e920c83)
 
 
 
 
 
-## Sınıflarımız Sayfası
+## Eğitim Gurupları Sayfası
 <br/> <br/>
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_26_47](https://github.com/user-attachments/assets/884680a8-1726-4436-8bef-d7138de2a82d)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_27_31](https://github.com/user-attachments/assets/763781c7-867a-40f6-bad4-38c59803b169)
+![Kinder - Resmi Web Sitesi ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 19 10 2024 12_27_39](https://github.com/user-attachments/assets/28a4faaf-bf71-43c5-b9cf-84b0e19992e2)
+
 
 
 ## Öğretmenlerimiz Sayfası
